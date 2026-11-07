@@ -3,7 +3,23 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Hosts the official DeepSeek whale on the whole desktop, outside the app window.",
+  "description": "Windows desktop whale plugin for DeepSeek Harness with gentle roaming, drag-and-drop positioning, click interactions and lifecycle cleanup.",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek-harness",
+    "desktop-pet",
+    "windows",
+    "powershell",
+    "wpf"
+  ],
+  "homepage": "https://github.com/fxy0715/dsh-pet-desktop#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fxy0715/dsh-pet-desktop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fxy0715/dsh-pet-desktop/issues"
+  },
   "scripts": {
     "build": "node scripts/build.cjs"
   },
