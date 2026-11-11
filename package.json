@@ -37,6 +37,9 @@
     "icon.svg"
   ],
   "dsh": {
-    "bundle": { "patch": "./cordis.patch.yml" }
+    "bundle": {
+      "patch": "./cordis.patch.yml",
+      "platforms": ["win32"]
+    }
   }
 }
